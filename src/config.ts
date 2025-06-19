@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://leolwin.netlify.app/", // replace this with your deployed domain
   author: "Leo Lwin",
   profile: "",
   desc: "A seafarer's journey into self-taught tech — shared one blog at a time :)",
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Suggest Changes",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
+    url: "https://github.com/leolwin999/leolwin-site/edit/main",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
