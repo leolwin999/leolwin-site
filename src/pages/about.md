@@ -40,7 +40,12 @@ Nov. 2024
 
 I finished high school in 2020, but due to political issues in my country and financial challenges in my family, I couldn’t continue to university.  
 Still, I haven’t given up — I’m learning everything I can on my own and might pursue college later when the time (and world) is right. 🎓💪  
+  
+## Languages
 
+- Mandarin Chinese (HSK 5)
+- English (B2)
+  
 ## Projects
   
 [Assembly-Projects](https://github.com/leolwin999/Assembly-Projects)
