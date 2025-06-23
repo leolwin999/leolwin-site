@@ -1,9 +1,8 @@
 ---
-title: Feature
 author: Leo Lwin
 pubDatetime: 2025-06-18T10:06:14.449Z
+title: Feature
 slug: feature
-ogImage: "@/assets/images/feature.png"
 featured: true
 draft: false
 tags:
