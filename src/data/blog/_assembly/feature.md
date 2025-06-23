@@ -3,6 +3,7 @@ title: Feature
 author: Leo Lwin
 pubDatetime: 2025-06-18T10:06:14.449Z
 slug: feature
+ogImage: "index.jpg"
 featured: true
 draft: false
 tags:
