@@ -9,7 +9,6 @@ tags:
   - assembly
   - tech
 description: This is the asssembly example description of the example post.
-canonicalURL: http://localhost:4321/testing
 ---
 
 ## Table of Contents
