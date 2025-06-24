@@ -5,6 +5,7 @@ pubDatetime: 2025-06-23T10:06:14.449Z
 slug: bounty-hacker-thm-writeup
 featured: true
 draft: false
+ogImage: "@/assets/images/forrest-gump-quote.png"
 tags:
   - tryhackme
   - CTF

@@ -5,6 +5,7 @@ title: Inside Assembly
 slug: inside-assembly
 featured: false
 draft: false
+ogImage: "@/assets/images/forrest-gump-quote.png"
 tags:
   - assembly
   - tech
