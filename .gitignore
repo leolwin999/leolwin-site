@@ -30,9 +30,6 @@ public/pagefind
 
 
 # template files
-pnpm-lock.yaml
 Dockerfile
 docker-compose.yml
-cz.yaml
-remark-collapse.d.ts
 
