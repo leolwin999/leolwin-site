@@ -13,8 +13,8 @@ export const SITE = {
   showBackButton: true, // show back button in post detail
   editPost: {
     enabled: true,
-    text: "Suggest Changes",
-    url: "https://github.com/leolwin999/leolwin-site/edit/main",
+    text: "Spotted a Mistake?",
+    url: "https://github.com/leolwin999/leolwin-site/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
