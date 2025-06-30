@@ -3,7 +3,7 @@ title: Bounty Hacker THM Write Up
 author: Leo Lwin
 pubDatetime: 2025-06-23T10:06:14.449Z
 slug: bounty-hacker-thm-writeup
-featured: true
+featured: false
 draft: false
 ogImage: "@/assets/images/forrest-gump-quote.png"
 tags:

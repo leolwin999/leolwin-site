@@ -4,7 +4,7 @@ pubDatetime: 2025-06-18T10:06:14.449Z
 title: Feature
 slug: feature
 ogImage: "@/assets/images/forrest-gump-quote.png"
-featured: true
+featured: false
 draft: false
 tags:
   - personal

@@ -11,14 +11,12 @@ I started this blog to share my experiences and knowledge, also as a way to trac
   
 Being a techie while working as a seafarer isn’t as easy as it sounds — especially in the middle of the sea.  
   
-Imagine spending your day in a noisy engine room, sweating in 40°C heat, running on 4 hours of sleep, with barely any internet (if you’re lucky), and constantly juggling physical and mental stress, duties, routines, and drills of who knows what.
-  
-The hardest part is watching your high school classmates and people of your age graduate while you’re lying in your cabin with back pain and muscle cramps, knowing you have a 4 a.m. duty coming up.
+Imagine spending your day in a noisy engine room, sweating in 40°C heat, running on 4 hours of sleep, with barely any internet (if you’re lucky), and constantly juggling physical and mental stress, duties, routines, and drills of who knows what.  
   
 But hey — I do this to support my parents, to pay the bills, and to take care of the people I love, especially my big mama (my grandma 👵🏼) .  
   
 Anyway, I didn’t write this to be a sob story. The real reason for this blog is to share what I’ve been learning on my tech journey.  
-I’m not some elite hacker — just someone trying to grow, one step at a time.
+I’m not some professional — just someone trying to grow, one step at a time.
 
 Thanks for stopping by. I hope you find something helpful while you're here. 🤗
   
@@ -27,14 +25,11 @@ Thanks for stopping by. I hope you find something helpful while you're here. �
 [Certified In Cybersecurity by (ISC)2](https://www.credly.com/badges/5d3465ad-804e-4389-ba6a-4daafe0e3bd9/public_url)  
 Nov. 2023
   
-[Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LG2WQLSBCE.pdf)  
+[Jr Penetration Testing](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LG2WQLSBCE.pdf)  
 Dec. 2023
 
 [API Penetration Testing](https://www.credly.com/badges/ff9a4ef5-fc7f-4fa8-9bc8-56e6f7e40262/public_url)  
 Apr. 2024 
-
-[Cyber Security 101](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HVRVNG6YDG.pdf)  
-Nov. 2024
   
 ## Education
 
