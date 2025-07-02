@@ -163,3 +163,8 @@ Skills you'll gain:
 -   Error handling in system-level code
 
 > Fetch the code [here!](https://github.com/leolwin999/Assembly-Projects/blob/main/Assembly_Files/client.asm)
+
+
+## References
+
+- [19+ Assembly Project Ideas for Beginners to Advanced Programmers](https://yourexcelbuddy.com/assembly-project-ideas/)
