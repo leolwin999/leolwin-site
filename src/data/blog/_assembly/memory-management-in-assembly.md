@@ -92,7 +92,7 @@ mov rbx, [rax]   ; use-after-free (undefined behavior!)
 Or, you forgot to allocate _enough_ memory:  
 ```
 mov rdi, 2
-call malloc      ; only 2 bytes!
+call malloc                         ; only 2 bytes!
 mov qword [rax], 0x1122334455667788 ; Ugh...buffer overflow!
 ```
 In C or Python, you’d get an error.  
@@ -118,9 +118,9 @@ So be careful (and proud) because you’re now literally the garbage collector :
 
 ## Outro
 
-Memory management in Assembly can be energy draining but man, it's crazy cool. You understand how the system really works!  
+Memory management in Assembly is indeed energy draining but man, it's crazy cool. You understand how the system really works!  
 You’ll learn how stacks grow, how pointers behave, how programs crash and also how to stop them.  
-And whenever you do assembly keep in your mind that:  
+And whenever you do assembly keep in mind that:  
 
 ![Uncle Ben Quote](@/assets/images/uncle_ben_quote.gif)
 

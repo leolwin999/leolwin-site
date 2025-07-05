@@ -15,8 +15,8 @@ You can check out the blog at:
 
 ## 📜 License
 
-MIT — open to fork, remix, or improve. Just don’t be evil 😄  
+MIT - open to fork, remix, or improve. Just don’t be evil 😄  
   
   
 Thanks for stopping by. Hope you have a good day!  
-– Leo Lwin
+-- Leo Lwin

@@ -13,13 +13,13 @@ Being a techie while working as a seafarer isn’t as easy as it sounds, especia
   
 Imagine spending your day in a noisy engine room, sweating in 40°C heat, running on 4 hours of sleep, with barely any internet (if you’re lucky), and constantly juggling physical and mental stress, duties, routines, and drills of who knows what.  
   
-But hey...I do this to support my parents, pay the bills, and take care of the people I love, especially my big mama (my grandma 👵🏼) .  
+But hey I do this to support my parents, pay the bills, and take care of the people I love, especially my big mama (my grandma 👵🏼) .  
   
 Anyway, I didn’t write this to be a sob story. The real reason for this blog is to share what I’ve been learning on my tech journey.  
   
 And I’m not some professional but just a skid.
   
-Thanks for stopping by. ope you find something helpful while you're here. 🤗
+Thanks for stopping by. Hope you find something helpful while you're here. 🤗
   
 ## Certs
 
@@ -35,7 +35,7 @@ Apr. 2024
 ## Education
 
 I finished high school in 2020, but due to political issues in my country and financial challenges in my family, I couldn’t continue to university.  
-Still, I’m learning everything I can on my own and might pursue college later when the time (and world) is right. 🎓💪  
+Still, I’m learning everything I can on my own and might pursue college later when the time (and world) is right. 🎓  
   
 ## Languages
 
@@ -85,4 +85,4 @@ Still, I’m learning everything I can on my own and might pursue college later 
   
   
   
-Kudos to [Sat Naing](https://satnaing.dev/) , creator of the template that I used to build this site!
+Kudos to [Sat Naing](https://satnaing.dev/) , creator of the template I used to build this site!

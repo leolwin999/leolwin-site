@@ -41,7 +41,7 @@ Ready to take a peek into the registers on the x86_64 (Intel) architecture? :)
 
 You might not want to use `rsp` and `rbp` registers because of their functions. (They control how stack works). But you can perform arithmetic operations on them directly, which make them general purpose.
 
-## A Cute Mini Example
+## A Mini Example
 
 ```
 section .text

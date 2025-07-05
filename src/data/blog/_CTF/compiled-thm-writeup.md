@@ -82,4 +82,4 @@ Now we gonna put this in the field and fetch our score (and streak).
 
 ![Finish Compiled THM](@/assets/images/Finished_compiled.png)
 
-And...That's it. Hope you enjoyed this room. Happy Reversing! 
+And That's it. Hope you enjoyed this room. Happy Reversing! 

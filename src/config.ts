@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://leolwin.com/",
   author: "Leo Lwin",
   profile: "",
-  desc: "A seafarer's journey into self-taught tech, shared one blog at a time :)",
+  desc: "A seafarer's journey into self-taught tech :)",
   title: "Leo Lwin",
   ogImage: "og-leolwin.jpg",
   lightAndDarkMode: true,
