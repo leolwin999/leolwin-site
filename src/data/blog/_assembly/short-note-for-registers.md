@@ -1,5 +1,5 @@
 ---
-title: Short Note For Registers
+title: Short Note for Registers
 author: Leo Lwin
 pubDatetime: 2025-03-22T15:10:55.618Z
 slug: short-note-for-registers
