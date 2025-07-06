@@ -17,7 +17,7 @@ But hey I do this to support my parents, pay the bills, and take care of the peo
   
 Anyway, I didn’t write this to be a sob story. The real reason for this blog is to share what I’ve been learning on my tech journey.  
   
-And I’m not some professional but just a skid.
+And I’m not professional, just a skid.
   
 Thanks for stopping by. Hope you find something helpful while you're here. 🤗
   
