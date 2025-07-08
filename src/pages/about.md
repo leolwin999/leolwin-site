@@ -76,7 +76,7 @@ Still, I’m learning everything I can on my own and might pursue college later 
 
 ## Profile
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/au66y.png" alt="Image Badge" />  
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2324754" style='border:none;'></iframe> 
   
   
   
