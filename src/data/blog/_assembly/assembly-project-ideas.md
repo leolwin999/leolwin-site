@@ -2,7 +2,7 @@
 title: Assembly Project Ideas
 author: Leo Lwin
 pubDatetime: 2025-04-22T08:54:04.346Z
-modDatetime: 2025-06-28T09:04:29.868Z
+modDatetime: 2025-07-11T09:45:34.247Z
 slug: assembly-project-ideas
 featured: true
 draft: false
