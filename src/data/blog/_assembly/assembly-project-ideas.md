@@ -58,7 +58,8 @@ Happy  coding!
 |[Below Or Above](#below-or-above)             | Checking a specific number      |
 |[Addition](#addition)                         | Adding two numbers              |
 |[Input Output](#input-output)                 | Read the text and write out     |
-|[Read File](#read-file)                       | Read the text file and write out|
+|[Read File](#read-file)                       | Read the text file              |
+|[Write File](#write-file)                     | Write to the text file          | 
 |[Reverse String](#reverse-string)             | gnirts a esreveR                |
 |[Random](#random)                             | Generate random number (0 - 100)|
 |[Server](#server)                             | Basic TCP server                |
@@ -119,6 +120,17 @@ Skills you'll gain:
 -   Working with real-world file paths
 
 > Fetch the code [here!](https://github.com/leolwin999/Assembly-Projects/blob/main/Assembly_Files/read_file.asm)
+
+## Write File
+This program writes contents to a `.txt` file. It overwrite the file or create one if not existed. It also shows how to interact with files on your system through system calls.  
+Skills you'll gain:
+-   File handling using system calls (`write`,`open`,`close`)
+-   Using different syscall flags
+-   Create and overwriting the file
+-   Error checking in system-level code
+-   Bitwise calculating 
+
+> Fetch the code [here!](https://github.com/leolwin999/Assembly-Projects/blob/main/Assembly_Files/write_file.asm)
 
 ## Reverse String
 Enter a string and watch it reversed like magic. This teaches how to navigate and manipulate memory, one byte at a time.  
