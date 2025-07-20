@@ -2,7 +2,7 @@
 title: Assembly Project Ideas
 author: Leo Lwin
 pubDatetime: 2025-04-22T08:54:04.346Z
-modDatetime: 2025-07-11T09:45:34.247Z
+modDatetime: 2025-07-20T09:43:47.094Z
 slug: assembly-project-ideas
 featured: true
 draft: false
@@ -64,6 +64,8 @@ Happy  coding!
 |[Random](#random)                             | Generate random number (0 - 100)|
 |[Server](#server)                             | Basic TCP server                |
 |[Client](#client)                             | Basic TCP client                |
+|[Web Scraper](#web-scraper)                   | Simple Web Scraper              |
+
 
 
 ## Simple Hello
@@ -176,6 +178,16 @@ Skills you'll gain:
 
 > Fetch the code [here!](https://github.com/leolwin999/Assembly-Projects/blob/main/Assembly_Files/client.asm)
 
+## Web Scraper
+A low-level web scraper built without high-level languages or libraries, just pure assembly and system calls. It connects to a website, sends an HTTP request, and reads the response directly from the socket. It’s a deeper dive into networking, protocols, and memory handling.  
+Skills you'll gain:
+-   Working with TCP sockets in assembly (socket, connect, send, recv)
+-   Using stack and struct
+-   Crafting raw HTTP requests (GET method, headers, etc.)
+-   Managing buffers and dynamic content
+-   Understanding network protocols (IP, TCP, HTTP) at a low level
+
+> Fetch the code [here!](https://github.com/leolwin999/Assembly-Projects/blob/main/Assembly_Files/web_scraper.asm)
 
 ## References
 
