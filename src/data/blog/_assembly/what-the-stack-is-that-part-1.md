@@ -57,7 +57,7 @@ We’re declaring a local variable `x` inside greet(), which gets pushed to the 
   
 Compile it first:
 ```
-gcc -fno-stack-protector -no-pie -o stack_stack stack_test.c
+gcc -fno-stack-protector -no-pie -o stack_test stack_test.c
 ```
   
 `-fno-stack-protector` - used for not to insert the canary (random values) into the compiled executable, so that you get the clean result.
