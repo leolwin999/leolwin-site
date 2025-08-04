@@ -2,7 +2,7 @@
 title: Assembly Project Ideas
 author: Leo Lwin
 pubDatetime: 2025-04-22T08:54:04.346Z
-modDatetime: 2025-07-20T09:43:47.094Z
+modDatetime: 2025-08-04T08:21:09.037Z
 slug: assembly-project-ideas
 featured: true
 draft: false
@@ -62,6 +62,7 @@ Happy  coding!
 |[Write File](#write-file)                     | Write to the text file          | 
 |[Reverse String](#reverse-string)             | gnirts a esreveR                |
 |[Random](#random)                             | Generate random number (0 - 100)|
+|[Timer](#timer)                               | Simple countdown timer          |
 |[Server](#server)                             | Basic TCP server                |
 |[Client](#client)                             | Basic TCP client                |
 |[Web Scraper](#web-scraper)                   | Simple Web Scraper              |
@@ -155,6 +156,17 @@ Skills you'll gain:
 -   Simple math operations in registers
 
 > Fetch the code [here!](https://github.com/leolwin999/Assembly-Projects/blob/main/Assembly_Files/random.asm)
+
+## Timer
+The user enters a number (in seconds), and the program counts down to zero, waiting one second between each tick using nanosleep. Great for learning how to handle time delays and user interaction in low-level code.  
+Skills you'll gain:
+- Using the `sys_nanosleep` syscall to delay execution
+- Countdown logic and looping in assembly
+- Converting user input (strings) to integers
+- Printing the loop output to the terminal
+- Structuring and managing time with `timespec` in memory
+
+> Fetch the code [here!](https://github.com/leolwin999/Assembly-Projects/blob/main/Assembly_Files/timer.asm)
 
 ## Server
 A basic TCP server that listens on a port and handles simple incoming connections. Writing a server in assembly is easier than you think!  
