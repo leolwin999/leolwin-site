@@ -2,7 +2,7 @@
 title: Assembly Project Ideas
 author: Leo Lwin
 pubDatetime: 2025-04-22T08:54:04.346Z
-modDatetime: 2025-08-06T13:45:17.551Z
+modDatetime: 2025-08-17T05:40:29.542Z
 slug: assembly-project-ideas
 featured: true
 draft: false
@@ -60,7 +60,8 @@ Happy  coding!
 |[Input Output](#input-output)                 | Read the text and write out     |
 |[Password Checker](#password-checker)         | Checking user's input password  | 
 |[Read File](#read-file)                       | Read the text file              |
-|[Write File](#write-file)                     | Write to the text file          | 
+|[Write File](#write-file)                     | Write to the text file          |
+|[Delete File](#delete-file)                   | Delete the text file            |
 |[Reverse String](#reverse-string)             | gnirts a esreveR                |
 |[Random](#random)                             | Generate random number (0 - 100)|
 |[Timer](#timer)                               | Simple countdown timer          |
@@ -146,6 +147,17 @@ Skills you'll gain:
 -   Bitwise calculating 
 
 > Fetch the code [here!](https://github.com/leolwin999/Assembly-Projects/blob/main/Assembly_Files/write_file.asm)
+
+## Delete File
+This program deletes a `.txt` file. It deletes a file using the unlink() system call. This program works by removing the file’s link to its inode.  
+Skills you'll gain:  
+- Using the sys_unlink system call to remove files
+- Understanding inodes and how file paths map to them
+- Handling user input for file paths
+- Working with strings for filenames
+- Error handling when deleting non-existent or protected files
+
+> Fetch the code [here!](https://github.com/leolwin999/Assembly-Projects/blob/main/Assembly_Files/delete_file.asm)
 
 ## Reverse String
 Enter a string and watch it reversed like magic. This teaches how to navigate and manipulate memory, one byte at a time.  
