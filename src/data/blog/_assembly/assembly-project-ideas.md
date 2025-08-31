@@ -2,7 +2,7 @@
 title: Assembly Project Ideas
 author: Leo Lwin
 pubDatetime: 2025-04-22T08:54:04.346Z
-modDatetime: 2025-08-17T05:40:29.542Z
+modDatetime: 2025-08-31T05:04:26.400Z
 slug: assembly-project-ideas
 featured: true
 draft: false
@@ -59,6 +59,7 @@ Happy  coding!
 |[Addition](#addition)                         | Adding two numbers              |
 |[Input Output](#input-output)                 | Read the text and write out     |
 |[Password Checker](#password-checker)         | Checking user's input password  | 
+|[Bit Shifter](#bit-shifter)                   | Shifting each bit to left       |
 |[Read File](#read-file)                       | Read the text file              |
 |[Write File](#write-file)                     | Write to the text file          |
 |[Delete File](#delete-file)                   | Delete the text file            |
@@ -125,6 +126,17 @@ Skills you'll gain:
 - Implementing conditional branches based on comparison results
 
 > Fetch the code [here!](https://github.com/leolwin999/Assembly-Projects/blob/main/Assembly_Files/password_checker.asm)
+
+## Bit Shifter
+This program takes a message and shifts its bits left by one position using the `rol` (rotate left) instruction. It’s a neat way to see how data can be transformed at the bit level, something that’s super common in cryptography, data encoding, and low-level optimization.  
+Skills you'll gain:
+- Using the `rol` instruction to rotate bits
+- Understanding bitwise operations at the CPU level
+- Working with ASCII characters as raw binary
+- Iterating over strings and applying transformations
+- Seeing how bit shifts can be used in encryption/obfuscation
+
+> Fetch the code [here!](https://github.com/leolwin999/Assembly-Projects/blob/main/Assembly_Files/bit_shifter.asm)
 
 ## Read File
 This program reads content from a `.txt` file and prints it to the terminal. It shows how to interact with files on your system through system calls.  
