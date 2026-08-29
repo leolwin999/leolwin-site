@@ -1,16 +1,15 @@
 # Leo Lwin’s Blog ⚓️💻
 
-Hey there! This is the source code for my personal blog, I write about experiences, CTFs, things I’ve learned, and stories from both the ocean and the terminal.
+Hey there! This is the source code for my personal blog.
 
 ## ✨ Contribute
 
-As I'm not a professional web developer, you're welcome for suggestions and improvements!  
-If you spot something outdated or want to suggest a fix, feel free to open a Pull Request. Let’s learn and improve together.
+As I'm not a professional web developer, you're welcome for suggestions and improvements.  
+If you spot something outdated or want to suggest a fix, feel free to open a Pull Request. Let’s learn and improve together!
 
 ## 🌐 Live Site
 
-You can check out the blog at:  
-[https://leolwin.netlify.app](https://leolwin.netlify.app)
+You can check out the blog [here.](https://leolwin.netlify.app)  
 
 
 ## 📜 License
