@@ -1,8 +1,8 @@
 ---
-title: THM, HTB VPN Error ဖြေရှင်းနည်း
+title: THM, HTB VPN Error ဖြေရှင်းနည်း (Updated 2026 Oct)
 author: Leo Lwin
 pubDatetime: 2025-10-24T17:19:56.768Z
-modDatetime: 2025-11-13T13:33:23.236Z
+modDatetime: 2026-10-20T16:13:28.893Z
 slug: how-to-solve-vpn-error
 featured: false
 draft: false
@@ -16,7 +16,11 @@ description: ပြည်တွင်းမှာ လက်ရှိအခြေ
 
 ## Table of Contents
 
-## THM, HTB OpenVPN error
+## Update Reminder
+
+နောက်ဆုံးက Updated နည်းကို ဦးစွာဖတ်ပေးပါ။ 
+
+## Intro
   
 ကိုယ့် Machine ကိုယ်သုံးရတာ နှစ်သက်တဲ့သူတွေ အတွက်တော့ VPN ချိတ်မရတာက ပြဿနာပါ။  
   
@@ -196,5 +200,29 @@ DPI ကလည်း detect လုပ်လို့မရပဲ လွှတ်�
 (အခုနည်းလမ်းကို ပြောပြပေးခဲ့တဲ့ brother ကိုလည်း ကျေးဇူးအများကြီးတင်ပါတယ်။)  
 
 
+## Updated 2026 Oct
 
-
+အခုအချိန်မှာဆိုရင်တော့ RiseUp VPN က သိပ်အလုပ်မဖြစ်တော့ပါဘူး။ ဒါပေမယ့် တစ်ယောက်နဲ့တစ်ယောက် ကွဲပြားနိုင်ပါတယ်။ အခုတော့ ပိုသေချာတဲ့နည်းလမ်းကို ကြည့်ရအောင်ပါ။  
+  
+![htb](@/assets/images/vpn_solve_htb_6.png)
+  
+ဒါကတော့ HTB မှာပြထားတဲ့နည်းပါ။ HTB ထဲက Connect To Hack The Box ထဲကိုဝင်၊ Trouble Shooting? မှာ ဝင်ပြီးကြည့်ပါ။  
+  
+![htb solve](@/assets/images/vpn_solve_htb_sol.png)
+  
+သူ့ထဲမှာပြထားတဲ့နည်းက ကျနော်တို့လက်ရှိအနေအထားနဲ့ဆို ကွက်တိပါပဲ။ အဲဒီအတိုင်းလိုက်လုပ်ကြည့်ရအောင်။  
+  
+![udp and tcp](@/assets/images/vpn_solve_htb_udp_tcp.png)
+  
+ကျနော်တို့ UDP ကို Download ဆွဲလိုက်ပါ့မယ်။ TCP ကိုတစ်ခါတည်း Download ဆွဲသုံးလည်း အဆင်ပြေပါတယ်။ ပြီးရင်တော့ Download ဆွဲလိုက်တဲ့ .ovpn file ကို vim ဒါမှမဟုတ် nano သုံးပြီး အခုလိုပြင်လိုက်ပါ။  
+  
+![ovpn](@/assets/images/vpn_solve_htb_ovpn_1.png)
+  
+File အောက်ဆုံးနားက tls ကိုလည်း ပြင်ဖို့လိုပါလိမ့်မယ်။  
+  
+![tls](@/assets/images/vpn_solve_htb_tls.png) 
+  
+အားလုံးပြီးလို့ ချိတ်ကြည့်တဲ့အခါကျရင်တော့ ပုံမှန်အတိုင်းပဲ ချိတ်လို့ရသွားပါပြီ။
+  
+![tls](@/assets/images/vpn_solve_htb_success.png)
+  

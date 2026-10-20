@@ -38,7 +38,7 @@ Finished high school in 2020 🎓
 ## Languages
 
 - Mandarin Chinese (HSK 5)
-- English
+- English (DET - 125)
   
 ## Projects
   
